@@ -1,4 +1,5 @@
 # Gorany Detector by YOLOv3-keras
-not ready
+--------
+README.md is not ready
 ------
 by The Legendary Dragon
